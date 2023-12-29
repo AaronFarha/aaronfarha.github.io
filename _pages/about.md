@@ -7,7 +7,7 @@ subtitle: Mechanical Engineering Ph.D. Student
 profile:
   align: justified
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Purdue University</p>
     <p>Ray W. Herrick Laboratories</p>
